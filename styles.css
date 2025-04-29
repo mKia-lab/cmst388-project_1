@@ -1,0 +1,27 @@
+/* Predefined Styles - DO NOT EDIT */
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border: 2px solid black;
+  display: inline-block;
+  margin: 10px;
+}
+
+.round-edge {
+  border-radius: 20px;
+}
+
+.odd {
+  background-color: lightgray;
+}
+
+.highlighter {
+  font-weight: bold;
+  color: red;
+}
+
+.last {
+  text-decoration: underline;
+}
